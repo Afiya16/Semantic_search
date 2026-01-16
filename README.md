@@ -1,5 +1,6 @@
-Search API using FastAPI
+
 #-------------------------#
+Search API using FastAPI
 #-------------------------#
 
 #----------------------------------------#
@@ -99,4 +100,5 @@ Submitted By
 #--------------------------------------------#
 Afiya Khatoon
 Btech-CSE
+
 (Python,AI/ML Enthusiast)
